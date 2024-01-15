@@ -6,3 +6,5 @@ def upper_dec(func ):
 
 def test1():
     return "Hello World"
+
+print(test1())
